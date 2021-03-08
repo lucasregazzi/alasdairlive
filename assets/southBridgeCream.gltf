@@ -1,0 +1,305 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 1832,
+            "max": [
+                2.240478515625,
+                0.32958984375,
+                0.0124969482421875
+            ],
+            "min": [
+                -2.240478515625,
+                0.0,
+                -0.0124969482421875
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 1832,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 1832,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5123,
+            "count": 1845,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5123,
+            "count": 1422,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5123,
+            "count": 1845,
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "generator": "Adobe Creative Cloud",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 21984
+        },
+        {
+            "buffer": 0,
+            "byteLength": 14656,
+            "byteOffset": 21984
+        },
+        {
+            "buffer": 0,
+            "byteLength": 21984,
+            "byteOffset": 36640
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3690,
+            "byteOffset": 58624
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 62314
+        },
+        {
+            "buffer": 0,
+            "byteLength": 2844,
+            "byteOffset": 62320
+        },
+        {
+            "buffer": 0,
+            "byteLength": 6,
+            "byteOffset": 65164
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3690,
+            "byteOffset": 65170
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 68860,
+            "uri": "southBridgeCream.bin"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "UNION IS URGENT AS PETALS Front Inflation Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.9482414126396179,
+                    0.8666666746139526,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "UNION IS URGENT AS PETALS Front Bevel Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.9482414126396179,
+                    0.8666666746139526,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "UNION IS URGENT AS PETALS Extrusion Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.9482414126396179,
+                    0.8666666746139526,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "UNION IS URGENT AS PETALS Back Bevel Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.9482414126396179,
+                    0.8666666746139526,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        },
+        {
+            "alphaMode": "OPAQUE",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "name": "UNION IS URGENT AS PETALS Back Inflation Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.9482414126396179,
+                    0.8666666746139526,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.3333333432674408
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "UNION IS URGENT AS PETALS",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 3,
+                    "material": 0,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 4,
+                    "material": 1,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 5,
+                    "material": 2,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 6,
+                    "material": 3,
+                    "mode": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 7,
+                    "material": 4,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -2365.676025390625,
+                -282.61224365234375,
+                164.79171752929688,
+                1.0
+            ],
+            "mesh": 0,
+            "name": "UNION IS URGENT AS PETALS"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ]
+}
